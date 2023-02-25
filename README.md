@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Install PHP Docs Raycast Extension](https://assets.raycast.com/jeremias-dev/php-docs/install_button@2x.png)](https://www.raycast.com/jeremias-dev/php-docs#install)   
+[![install phpdoc extension](https://www.raycast.com/comes/php-docs/install_button@2x.png)](https://www.raycast.com/comes/php-docs)
 
 <!--
 **comes/comes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a title="Install php-docs Raycast Extension" href=""><img src="" height="64" alt="" style="height: 64px;"></a>
